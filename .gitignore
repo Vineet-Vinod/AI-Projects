@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project specifics
+# Face-Recognition
+Face-Recognition/faces_positive/*
+Face-Recognition/face_recognition_model.pth
