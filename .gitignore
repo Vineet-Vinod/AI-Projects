@@ -13,3 +13,6 @@ wheels/
 # Face-Recognition
 Face-Recognition/faces_positive/*
 Face-Recognition/face_recognition_model.pth
+
+# Write-Like-Me
+Write-Like-Me/my_writing.txt
